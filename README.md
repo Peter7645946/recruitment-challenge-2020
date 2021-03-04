@@ -8,18 +8,20 @@ All the commands were tested on Ubuntu 20.04. If you use some other OS then you 
 
 ## Files
 
-April_daily_electricity_demand.csv  - Daly electricity demand for April 2020
-Predicted_QLD_demand_2020.csv       - Predicted electricity demand for 2020
-README.md                           - this file
-requirements.txt                    - list of python libraries
-visualisation.ipynb                 - Notebook with code for the challenge
+- April_daily_electricity_demand.csv  - Daly electricity demand for April 2020
+- Predicted_QLD_demand_2020.csv       - Predicted electricity demand for 2020
+- README.md                           - this file
+- requirements.txt                    - list of python libraries
+- visualisation.ipynb                 - Notebook with code for the challenge
 
 
 ## How to run
 
 Clone repository
 
+```
 git clone https://github.com/Peter7645946/recruitment-challenge-2020.git
+```
 
 Make sure that you have python3 installed.
 
