@@ -4,7 +4,7 @@ Recruitment challenge based on AEMO electricity demand
 
 ## Note
 
-All the commands were tested on Ubunto 20.04. If you use some other OS then you might need to unjust them a little
+All the commands were tested on Ubuntu 20.04. If you use some other OS then you might need to unjust them a little
 
 ## Files
 
